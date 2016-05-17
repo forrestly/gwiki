@@ -1,2 +1,2 @@
 # gwiki
-a open source wiki solution using golang, the core concept from dokuwiki, the web framework is gin
+a open source wiki solution using golang, the core concept is from dokuwiki, the web framework is gin
